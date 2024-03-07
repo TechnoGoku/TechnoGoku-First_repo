@@ -1,7 +1,5 @@
 from datetime import datetime
 
-date = "2021-10-09"
-
 today_time = datetime.today()
 
 
